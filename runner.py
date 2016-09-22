@@ -2,7 +2,6 @@
 # -*- encoding: utf-8 -*-
 import random
 import eddy as p2
-import randint13
 import roy
 import rc   as p1
 import darren
